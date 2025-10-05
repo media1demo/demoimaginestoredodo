@@ -7,6 +7,9 @@ DODO_PAYMENTS_WEBHOOK_KEY = "whsec_d8zgtcnNkRh9HHpKqMV++i0bJpUqGfY+"
 DODO_PAYMENTS_ENVIRONMENT = "test_mode"
 DODO_PAYMENTS_API_KEY= "7t-SFMf1FUp7psLG.TYE8AdlXLjhpNpUrTijp00LSwHwEmcqcCSU3_mAQ7mWAuB5p"
 DODO_PAYMENTS_RETURN_URL= "https://demo.imaginea.store/success"
+command = "npm install"
+
+pages_build_output_dir = "src"
 
 [[kv_namespaces]]
 binding = "SUBSCRIPTIONS_KV"
